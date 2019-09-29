@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aegheidoh.ux-consulting.ru/sitemap.xml
